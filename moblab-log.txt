@@ -1,0 +1,80 @@
+Request sending time: Thu Jan 04 16:00:01 CET 2018 
+Request range: -01/02/2018 
+	The number of complaints = 3916 for the query 'werbung'
+	The number of complaints = 4740 for the query 'werb'
+	The number of complaints = 103 for the query 'advertising'
+	The number of complaints = 643 for the query 'adv'
+	The total = 9402 -- complatins per day = 4.22561797752809
+	Warn to AdOps: 9402 opinions
+Request sending time: Thu Jan 04 16:01:01 CET 2018 
+Request range: -01/02/2018 
+	The number of complaints = 3916 for the query 'werbung'
+	The number of complaints = 4740 for the query 'werb'
+	The number of complaints = 103 for the query 'advertising'
+	The number of complaints = 643 for the query 'adv'
+	The total = 9402 -- complatins per day = 4.22561797752809
+	Warn to AdOps: 9402 opinions
+Request sending time: Thu Jan 04 16:02:01 CET 2018 
+Request range: -01/02/2018 
+	The number of complaints = 3916 for the query 'werbung'
+	The number of complaints = 4740 for the query 'werb'
+	The number of complaints = 103 for the query 'advertising'
+	The number of complaints = 643 for the query 'adv'
+	The total = 9402 -- complatins per day = 4.22561797752809
+	Warn to AdOps: 9402 opinions
+Request sending time: Thu Jan 04 16:03:01 CET 2018 
+Request range: -01/02/2018 
+	The number of complaints = 3916 for the query 'werbung'
+	The number of complaints = 4740 for the query 'werb'
+	The number of complaints = 103 for the query 'advertising'
+	The number of complaints = 643 for the query 'adv'
+	The total = 9402 -- complatins per day = 4.22561797752809
+	Warn to AdOps: 9402 opinions
+Request sending time: Thu Jan 04 16:04:01 CET 2018 
+Request range: -01/02/2018 
+	The number of complaints = 3916 for the query 'werbung'
+	The number of complaints = 4740 for the query 'werb'
+	The number of complaints = 103 for the query 'advertising'
+	The number of complaints = 643 for the query 'adv'
+	The total = 9402 -- complatins per day = 4.22561797752809
+	Warn to AdOps: 9402 opinions
+Request sending time: Thu Jan 04 16:05:01 CET 2018 
+Request range: -01/02/2018 
+	The number of complaints = 3916 for the query 'werbung'
+	The number of complaints = 4740 for the query 'werb'
+	The number of complaints = 103 for the query 'advertising'
+	The number of complaints = 643 for the query 'adv'
+	The total = 9402 -- complatins per day = 4.22561797752809
+	Warn to AdOps: 9402 opinions
+Request sending time: Thu Jan 04 16:06:01 CET 2018 
+Request range: -01/02/2018 
+	The number of complaints = 3916 for the query 'werbung'
+	The number of complaints = 4740 for the query 'werb'
+	The number of complaints = 103 for the query 'advertising'
+	The number of complaints = 643 for the query 'adv'
+	The total = 9402 -- complatins per day = 4.22561797752809
+	Warn to AdOps: 9402 opinions
+Request sending time: Thu Jan 04 16:07:01 CET 2018 
+Request range: -01/02/2018 
+	The number of complaints = 3916 for the query 'werbung'
+	The number of complaints = 4740 for the query 'werb'
+	The number of complaints = 103 for the query 'advertising'
+	The number of complaints = 643 for the query 'adv'
+	The total = 9402 -- complatins per day = 4.22561797752809
+	Warn to AdOps: 9402 opinions
+Request sending time: Thu Jan 04 16:08:01 CET 2018 
+Request range: -01/02/2018 
+	The number of complaints = 3916 for the query 'werbung'
+	The number of complaints = 4740 for the query 'werb'
+	The number of complaints = 103 for the query 'advertising'
+	The number of complaints = 643 for the query 'adv'
+	The total = 9402 -- complatins per day = 4.22561797752809
+	Warn to AdOps: 9402 opinions
+Request sending time: Thu Jan 04 16:09:01 CET 2018 
+Request range: -01/02/2018 
+	The number of complaints = 3916 for the query 'werbung'
+	The number of complaints = 4740 for the query 'werb'
+	The number of complaints = 103 for the query 'advertising'
+	The number of complaints = 643 for the query 'adv'
+	The total = 9402 -- complatins per day = 4.22561797752809
+	Warn to AdOps: 9402 opinions
